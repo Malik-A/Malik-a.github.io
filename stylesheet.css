@@ -1,5 +1,11 @@
 @charset "utf-8";
 /* Global Styles */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 body {
 	margin-left: auto;
