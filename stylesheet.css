@@ -170,9 +170,8 @@ header {
 	width: 100%;
 	float: none;
 }
-header .profileLogo .logoPlaceholder {
-	display: inline-block;
-}
+
+
 header .profilePhoto {
 	display: inline-block;
 }
@@ -183,18 +182,7 @@ header .profileHeader {
 header .profileHeader p {
 	text-align: justify;
 }
-header .socialNetworkNavBar {
-	text-align: center;
-	display: block;
-	margin-top: 60px;
-	clear: both;
-	margin-bottom: 15%;
-}
-header .socialNetworkNavBar .socialNetworkNav {
-	width: 60px;
-	height: 60px;
-	display: inline-block;
-	margin-right: 23px;
+
 }
 /* Main content sections */
 .mainContent .section1 {
