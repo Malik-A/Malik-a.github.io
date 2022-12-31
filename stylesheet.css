@@ -15,13 +15,14 @@ header {
 	display: block;
 }
 
-/* header .profilePhoto {
+ .pic {
 	background-color: rgba(237,237,237,1.00);
 	width: 25%;
 	border-radius: 50%;
 	height: 259px;
 	clear: both;
-}*/
+}
+
 header .profileHeader h1 {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(146,146,146,1.00);
@@ -166,7 +167,7 @@ header {
 }
 
 
-header .profilePhoto {
+header .pic {
 	display: inline-block;
 }
 header .profileHeader {
@@ -230,7 +231,7 @@ header {
 	float: none;
 }
 
-/*header .profilePhoto {
+/*header .pic {
 	float: left;
 	clear: both;
 	margin-right: 3%;
@@ -298,7 +299,7 @@ footer .footerNote {
 @media only screen and (min-width:1025px) {
 /* Header */
 
-/*header .profilePhoto {
+/*header .pic {
 	float: left;
 	clear: both;
 	margin-right: 3%;
