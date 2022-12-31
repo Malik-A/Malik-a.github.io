@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>50AB6924-D546-4BAC-A377-F4571F1B7E89</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>50AB6924-D546-4BAC-A377-F4571F1B7E89</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va8QCAAAAAAQQMAAAAN0ExeQKDqJM9u8q9bvtWo3q
+				+oXIi+DhabYiUehiNVMTwAEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAJAAAAAQEAAGFpemFtYWxpawAA
+				AAYAAAABAQAAQ29kaW5nAAARAAAAAQEAAG1hbGlrLWEu
+				Z2l0aHViLmlvAAAAEAAAAAEGAAAQAAAAIAAAADQAAABE
+				AAAACAAAAAQDAAD6XAAAAAAAAAgAAAAEAwAAuOADAAAA
+				AAAIAAAABAMAANqSewAAAAAACAAAAAQDAABDJ3sAAAAA
+				ABAAAAABBgAAeAAAAIgAAACYAAAAqAAAAAgAAAAABAAA
+				QcSv+oi19EQYAAAAAQIAAAIAAAAAAAAADwAAAAAAAAAA
+				AAAAAAAAAAgAAAAEAwAAAgAAAAAAAAAEAAAAAwMAAPUB
+				AAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRv
+				c2ggSEQIAAAABAMAAABQoRtzAAAACAAAAAAEAABBxFsP
+				/YAAACQAAAABAQAANjJGMUVGMTYtNkZEMS00QTcxLTk4
+				N0UtOUM1QkQyRTFCNThGGAAAAAECAACBAAAAAQAAAO8T
+				AAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUA
+				AMwAAAD+////AQAAAAAAAAAQAAAABBAAAGAAAAAAAAAA
+				BRAAALgAAAAAAAAAEBAAAOAAAAAAAAAAQBAAANAAAAAA
+				AAAAAiAAAKwBAAAAAAAABSAAABwBAAAAAAAAECAAACwB
+				AAAAAAAAESAAAGABAAAAAAAAEiAAAEABAAAAAAAAEyAA
+				AFABAAAAAAAAICAAAIwBAAAAAAAAMCAAALgBAAAAAAAA
+				AcAAAAABAAAAAAAAEcAAACAAAAAAAAAAEsAAABABAAAA
+				AAAAENAAAAQAAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/aizamalik/Coding/malik-a.github.io/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>malik-a.github.io</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
