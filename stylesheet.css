@@ -49,63 +49,10 @@ header .profileHeader p {
 	line-height: 1.8;
 	overflow-y: auto;
 }
-header .socialNetworkNavBar {
-	text-align: center;
-	display: block;
-	margin-top: 60px;
-	clear: both;
-}
+
 
 /* Main Content sections */
-.mainContent .section1 {
-	display: block;
-}
-.section1 .sectionTitle, .section2 .sectionTitle {
-	font-family: 'Montserrat', sans-serif;
-	color: rgba(146,146,146,1.00);
-	font-size: 18px;
-	font-weight: 700;
-	text-transform: uppercase;
-}
-.section1 .sectionTitleRule, .section2 .sectionTitleRule {
-	margin: 0 3% 0 0;
-	float: left;
-	clear: both;
-}
-.section1 .sectionTitleRule2, .section2 .sectionTitleRule2 {
-	background-color: rgba(208,207,207,1.00);
-	height: 1px;
-	padding: 0px;
-}
-.mainContent .section1 .section1Content {
-	font-family: ProximaNova;
-	font-size: 14px;
-	font-weight: 100;
-	color: rgba(208,207,207,1.00);
-}
-.mainContent .section1 .section1Content span {
-	color: rgba(146,146,146,1.00);
-	font-family: sans-serif;
-}
-.section2 .sectionContentTitle {
-	font-family: sans-serif;
-	color: rgba(146,146,146,1.00);
-	font-size: 18px;
-	font-weight: 700;
-}
-.section2 .sectionContentSubTitle {
-	font-family: sans-serif;
-	color: rgba(68,67,67,1.00);
-	font-size: 14px;
-	font-weight: 400;
-}
-.section2 .sectionContent {
-	font-family: sans-serif;
-	color: rgba(146,146,146,1.00);
-	font-size: 14px;
-	font-weight: 400;
-	line-height: 1.8;
-}
+
 .mainContent {
 	display: block;
 }
@@ -128,12 +75,7 @@ header .socialNetworkNavBar {
 	line-height: 18px;
 	text-decoration: none;
 }
-.stretch {
-	content: '';
-	display: inline-block;
-	margin-left: 2%;
-	margin-right: 2%;
-}
+
 /* Footer */
 footer .footerDisclaimer {
 	font-family: sans-serif;
@@ -180,34 +122,7 @@ header .profileHeader p {
 
 }
 /* Main content sections */
-.mainContent .section1 {
-	text-align: center;
-	margin-bottom: 10%;
-}
-.section1 .section1Title, .section2 .section1Title {
-	text-align: center;
-}
-.section1 .sectionTitleRule, .section2 .sectionTitleRule {
-	width: 100%;
-}
-.section1 .sectionTitleRule2, .section2 .sectionTitleRule2 {
-	display: none;
-}
-.mainContent .section1 .section1Content {
-	display: inline-block;
-	text-align: left;
-	font-family: sans-serif;
-	text-align: justify;
-}
-.mainContent .section2 {
-	display: block;
-	text-align: center;
-}
-.section2 .section2Content {
-	margin-top: 10%;
-	text-align: justify;
-	margin-bottom: 10%;
-}
+
 .mainContent .externalResourcesNav {
 	margin-bottom: 10%;
 }
@@ -243,32 +158,7 @@ header .profileHeader {
 }
 
 /* Main content and sections */
-.section1 .section1Title, .section2 .section1Title {
-	text-align: center;
-}
-.section1 .sectionTitleRule, .section2 .sectionTitleRule {
-	width: 100%;
-}
-.section1 .sectionTitleRule2, .section2 .sectionTitleRule2 {
-	display: none;
-}
-.mainContent .section1 .section1Content {
-	display: block;
-	margin: 0% 0% 0% 20%;
-	font-family: sans-serif;
-	margin-top: 5%;
-	margin-bottom: 5%;
-}
-.mainContent .section2 {
-	clear: both;
-}
-.section2 .section2Content {
-	padding: 0px;
-	margin-left: 20%;
-	font-family: sans-serif;
-	margin-top: 5%;
-	margin-bottom: 5%;
-}
+
 .mainContent .externalResourcesNav {
 	margin-left: 20%;
 	margin-top: 40px;
@@ -310,25 +200,7 @@ header .profileHeader {
 }
 
 /* Main content sections */
-.section1 .sectionTitleRule, .section2 .sectionTitleRule {
-	width: 22.5%;
-}
-.mainContent .section1 .section1Content {
-	display: block;
-	margin-top: 0%;
-	margin-right: 0%;
-	margin-left: 26%;
-	margin-bottom: 0%;
-	font-family: sans-serif;
-}
-.mainContent .section2 {
-	clear: both;
-}
-.section2 .section2Content {
-	padding: 0px;
-	margin-left: 26%;
-	font-family: sans-serif;
-}
+
 .mainContent .externalResourcesNav {
 	margin-top: 40px;
 	margin-bottom: 40px;
